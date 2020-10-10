@@ -1,5 +1,4 @@
-# Android-
-Android布局的知识点汇总
+# Android布局的知识点汇总
 Android各大组件
 Activity Server (服务)        BroadCastReceive(广播)         ContentProvider(内容提供者)
 -----------------------------------------------------------------------------------------------
